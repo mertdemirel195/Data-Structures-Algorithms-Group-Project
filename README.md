@@ -9,6 +9,19 @@ Where we help you find parking easily and effectivly
 
 # Introduction 
 
-# 
+# File Architecture
+
+# The DataSet
+
+# Installation and Usage
+# First time install
+
+# Usage 
+
+# Further Improvments
+
+# Resources used 
+
+# Credits 
 
 
