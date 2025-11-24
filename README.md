@@ -63,22 +63,17 @@ The project focuses on data simulation, user experience testing, and functional 
 
 3. Verify Installation
    
-&emsp;&emsp; Once dependencies are installed, open the quickspot_app.ipynb file in Google Colab or Jupyter Notebook.
-&emsp;&emsp; Once all dependencies are installed, you can run the project in two different ways:
+&emsp;&emsp; Once all dependencies are installed, you can run the project in Visual Studio Code following these steps:
 
-Option A – Run in Visual Studio Code
+&emsp;&emsp;&emsp;&emsp; Open Visual Studio Code.
 
-Open Visual Studio Code.
+&emsp;&emsp;&emsp;&emsp; Go to File → Open Folder → QuickSpot.
 
-Go to File → Open Folder → QuickSpot.
+&emsp;&emsp;&emsp;&emsp; Open the file MVPHarutYFinal.ipynb or quickspot_app.ipynb.
 
-Open the file MVPHarutYFinal.ipynb or quickspot_app.ipynb.
+&emsp;&emsp;&emsp;&emsp; If prompted, select the Python 3 interpreter.
 
-If prompted, select the Python 3 interpreter.
-
-Run all cells (or press ▶ Run All).
-
-Wait for the message:
+&emsp;&emsp;&emsp;&emsp; Run all cells (or press ▶ Run All).
 
 # USAGE 
 1. Select a Reference Point
